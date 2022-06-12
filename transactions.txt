@@ -1,0 +1,3 @@
+
+FingerTips : Recived Payment +R400.000000 from saving account, available balance R400.000000
+FingerTips : Recived Payment +R400.000000 from saving account, available balance R400.000000
